@@ -1,9 +1,5 @@
 # QA Portfolio
 
-Hello!
-
-My name is Yaroslava and I am looking for a Trainee/Junior QA position.
-
 This repository contains examples of my practical QA work:
 
 ## Contents
