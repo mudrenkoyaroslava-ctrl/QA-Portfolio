@@ -16,11 +16,9 @@ This repository contains examples of my practical QA work:
 ## Tools
 
 - TestRail
-- Jira
 - Postman
 - Swagger
 - GitHub
-- DevTools
 
 ## Skills
 
