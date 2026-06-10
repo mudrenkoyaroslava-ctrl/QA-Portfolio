@@ -56,3 +56,17 @@ UPDATE public.authors SET name = 'Нове ім''я автора' WHERE id = 2;
 DELETE FROM public.books WHERE id = 5;
 
 DELETE FROM public.authors WHERE id = 10;
+
+SELECT *
+FROM public.books
+WHERE author_id = 1
+AND genre_id = 2;
+
+SELECT *
+FROM public.books
+WHERE genre_id = 1
+OR genre_id = 2;
+
+SELECT *
+FROM public.books
+LIMIT 5;
