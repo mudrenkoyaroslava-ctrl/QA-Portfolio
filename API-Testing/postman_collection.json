@@ -1,7 +1,7 @@
 {
   "info": {
     "_postman_id": "bde700f1-eaf6-4cd5-9b84-fcb42a2cdf57",
-    "name": "Petstore",
+    "name": "library",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "55607156",
     "_collection_link": "https://go.postman.co/collection/55607156-bde700f1-eaf6-4cd5-9b84-fcb42a2cdf57?source=collection_link"
