@@ -76,7 +76,7 @@
       "name": "Book",
       "item": [
         {
-          "name": "Add author",
+          "name": "Add book",
           "request": {
             "method": "POST",
             "header": [
